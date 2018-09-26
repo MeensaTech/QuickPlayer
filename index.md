@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to QuickPlayer Support Web Page
 
-You can use the [editor on GitHub](https://github.com/MeensaTech/QuickPlayer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#Quick Player - Video Player
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Quick Player can play all your movies, videos and music in most formats directly without conversion.
 
-### Markdown
+Features:
+- Support video formats: mkv, rmvb, rm, asf, avi, divx, dv, flv, gxf, xvid, mp4, mov, 3gp, ts, m2ts, swf, vob, h265(hevc), webm, mp2, mpeg, mpg, mts, mxf, ogm, wmv, amv, f4v, gvi, m1v, m2p, m2t, m2v, m4v, moov, mp2v, ts, tts, wm, wtv …
+- Support audio formats: mp3, wma, wav, dts, aac, ac3, flac, m4a, mka, ape, cue, amr, ogg, m4p, mod, mp1, mp2, m2a…
+- Document management: Create folder, rename, move, delete
+- Support document: TXT，Word，EXCEL，PPT，PDF, CHM, EPUB
+- Compress/Decompress: ZIP,RAR,7Z with password protected
+- Transfer file: Transfer files from your computer to your phone via WiFi; Support iTunes file sharing
+- Play streaming media: Open the URL directly, for HTTP, FTP, RTSP, RTMP, MMS, UDP/RTP 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Contact us: meensa_tech@163.com
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MeensaTech/QuickPlayer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
