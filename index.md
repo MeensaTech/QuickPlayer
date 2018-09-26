@@ -1,6 +1,6 @@
 ## Welcome to QuickPlayer Support Web Page
 
-#Quick Player - Video Player
+# Quick Player - Video Player
 
 Quick Player can play all your movies, videos and music in most formats directly without conversion.
 
